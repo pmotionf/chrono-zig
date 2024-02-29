@@ -1,5 +1,13 @@
 # Zig Chrono
 
+Original at the bottom of this README.
+
+This fork adds a handful of commits so that `chrono` can be used in up-to-date versions of Zig.
+
+--- 
+
+# Zig Chrono
+
 This originally was a Zig port of the Rust crate [`chrono`][]. It now uses [Howard Hinnant's `chrono`
 compatible date algorithms][date_algorithms]. 
 
